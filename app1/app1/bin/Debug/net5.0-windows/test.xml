@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ticket2XmlList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <data>
+    <Ticket2Xml>
+      <When>2021. 05. 02. 21:59:54</When>
+      <Daytime>at night</Daytime>
+      <Rate>6</Rate>
+      <Unit>mg/dl</Unit>
+      <Critical>HYPO</Critical>
+    </Ticket2Xml>
+    <Ticket2Xml>
+      <When>2021. 05. 05. 18:18:21</When>
+      <Daytime>after breakfast</Daytime>
+      <Rate>270</Rate>
+      <Unit>mg/dl</Unit>
+      <Critical>HIPER</Critical>
+    </Ticket2Xml>
+    <Ticket2Xml>
+      <When>2021. 05. 05. 18:18:21</When>
+      <Daytime>after dinner</Daytime>
+      <Rate>70</Rate>
+      <Unit>mg/dl</Unit>
+      <Critical>HYPO</Critical>
+    </Ticket2Xml>
+  </data>
+</Ticket2XmlList>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ChartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="delMeasureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editMeasure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="exportMeasureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addMeasureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="newQForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
