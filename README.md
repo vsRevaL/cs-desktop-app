@@ -1,4 +1,4 @@
-# 🩸 Blood Sugar Diary 💻📋📊📝
+# 🩸 Blood Sugar Diary
 
 ## Introduction
 
